@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/freequiz/static/js/main.a134d531.chunk.js",
+    "main.js.map": "/freequiz/static/js/main.a134d531.chunk.js.map",
+    "runtime-main.js": "/freequiz/static/js/runtime-main.e30611f3.js",
+    "runtime-main.js.map": "/freequiz/static/js/runtime-main.e30611f3.js.map",
+    "static/js/2.856b71e4.chunk.js": "/freequiz/static/js/2.856b71e4.chunk.js",
+    "static/js/2.856b71e4.chunk.js.map": "/freequiz/static/js/2.856b71e4.chunk.js.map",
+    "index.html": "/freequiz/index.html",
+    "precache-manifest.cfd19968455da4bfe8934311795ff29d.js": "/freequiz/precache-manifest.cfd19968455da4bfe8934311795ff29d.js",
+    "service-worker.js": "/freequiz/service-worker.js",
+    "static/js/2.856b71e4.chunk.js.LICENSE.txt": "/freequiz/static/js/2.856b71e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e30611f3.js",
+    "static/js/2.856b71e4.chunk.js",
+    "static/js/main.a134d531.chunk.js"
+  ]
+}
